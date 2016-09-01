@@ -1,0 +1,1 @@
+<div class="plugin_description">This plugin removes empty categories from Magento</div>
